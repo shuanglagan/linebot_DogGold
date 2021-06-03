@@ -1,0 +1,17 @@
+doggold
+https://quality.data.gov.tw/dq_download_json.php?nid=121909&md5_url=8eb70d0c924b885c38231d61128615fa
+
+trashcan
+https://quality.data.gov.tw/dq_download_json.php?nid=121355&md5_url=0b43db1f501d936ec91750937d3248f3
+
+publicwater
+https://quality.data.gov.tw/dq_download_json.php?nid=130230&md5_url=adba821cba8545994ae9ad22c795a021
+
+
+
+
+
+
+
+
+
