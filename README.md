@@ -20,5 +20,5 @@
 &emsp;&emsp;&emsp;&emsp;2. 點開機器人進入聊天區域<br>
 &emsp;&emsp;&emsp;&emsp;3. 再輸入欄位處，點擊"+"，找到位置資訊，點擊進去<br>
 &emsp;&emsp;&emsp;&emsp;4. 確認所在位置之後，點擊"公開所在位置"<br>
-&emsp;&emsp;&emsp;&emsp;5. 稍等片刻，機器人就會回傳5筆最接近本地的狗便袋箱位置
+&emsp;&emsp;&emsp;&emsp;5. 稍等片刻，機器人就會回傳5筆最接近本地的狗便袋箱位置<br>
 &emsp;&emsp;&emsp;&emsp;(p.s.位置可手動調整)
