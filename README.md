@@ -3,7 +3,7 @@
 基本資料
 
 - 機器人名稱：DogGold
-- 機器人的好友ID:1655952229
+- 機器人的好友ID:@805dfhmr
 - 連接的公開資料來源:[https://quality.data.gov.tw/dq_download_json.php?nid=121909&md5_url=8eb70d0c924b885c38231d61128615fa](https://quality.data.gov.tw/dq_download_json.php?nid=121909&md5_url=8eb70d0c924b885c38231d61128615fa)
 
 簡介：
